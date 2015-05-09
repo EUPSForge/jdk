@@ -1,0 +1,2 @@
+envPrepend(PATH, ${PRODUCT_DIR}/bin)
+envSet(JAVA_HOME, ${PRODUCT_DIR})
